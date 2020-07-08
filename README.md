@@ -1,3 +1,5 @@
 # README
 
-Test repository
+Test repository.
+
+Adding new collaborators.
